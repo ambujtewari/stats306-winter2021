@@ -29,13 +29,14 @@ This is an introductory statistical computing course based on the R programming 
 **Email**: [apolani@umich.edu](mailto:apolani@umich.edu)
 
 ## Grading
+
 The final grade in the course will be determined by your scores in homework, a midterm exam, and a final exam using the weights given below.
 
 - Homeworks (30%)
 - Midterm Exam (30%)
 - Final Exam (40%)
 
-Grading will be on a fixed scale as follows.
+Final grade in this course grading will be awarded using the grading scheme below.
 - 99-100: A+
 - 95-98.9: A
 - 90-94.9: A-
@@ -46,3 +47,11 @@ Grading will be on a fixed scale as follows.
 - 65-69.9: C
 - 60-64.9: C-
 - 0-59.9: D+ or below
+
+## Academic Integrity
+All students are expected to abide by the LSA Community Standards of Academic Integrity. Any instances of academic dishonesty will be reported to the Dean’s office.
+
+## Accommodation for Students with Disabilities
+
+If you think you need accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way the course is usually taught may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Office of Services for Students with Disabilities (SSD) to help us determine appropriate academic accommodations. SSD (734-763-3000; [http://www.umich.edu/sswd]) typically recommends accommodations through a Verified Individualized Services and Accommodations (VISA) form. Any information you provide is private and confidential and will be treated as such.
+
