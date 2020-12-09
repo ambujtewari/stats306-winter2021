@@ -63,4 +63,12 @@ Lecture No. | Date | Topic | Reading Assignment
 01 | Jan 25 |  | 
 02 | Jan 27 |  | 
 03 | Feb 01 |  | 
-03 | Feb 03 |  | 
+04 | Feb 03 |  | 
+05 | Feb 08 |  | 
+06 | Feb 10 |  | 
+07 | Feb 15 |  | 
+08 | Feb 17 |  | 
+09 | Feb 22 |  | 
+ | Feb 24 | Well-being break | 
+10 | Mar 01 |  | 
+11 | Mar 03 |  | 
