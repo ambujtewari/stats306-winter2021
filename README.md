@@ -72,3 +72,16 @@ Lecture No. | Date | Topic | Reading Assignment
 -- | Feb 24 | Well-being break | 
 10 | Mar 01 |  | 
 11 | Mar 03 |  | 
+-- | Mar 08 | Midterm Exam | 
+12 | Mar 10 |  | 
+13 | Mar 15 |  | 
+14 | Mar 17 |  | 
+15 | Mar 22 |  | 
+16 | Mar 24 |  | 
+17 | Mar 29 |  | 
+18 | Mar 31 |  | 
+19 | Apr 05 |  | 
+20 | Apr 07 |  | 
+21 | Apr 12 |  | 
+22 | Apr 14 |  | 
+23 | Apr 19 |  |
