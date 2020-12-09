@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to STATS 306 / DATA SCI 306
 
-You can use the [editor on GitHub](https://github.com/ambujtewari/stats306-winter2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is an introductory statistical computing course based on the R programming language. Topics covered include data wrangling, data visualization, basics of programming in R, and basics of statistical modeling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ambujtewari/stats306-winter2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Textbook**: We will use _R for Data Science_ by Grolemund and Wickham. It is available both as a printed book and as an [online resource](https://r4ds.had.co.nz/).
+- **Canvas**: You should access the Canvas class page for this course frequently. It will contain important announcements and posted homework assignments.
