@@ -73,15 +73,15 @@ Lecture No. | Date | Topic | Reading Assignment
 10 | Mar 01 | Tibbles and Data Import | 
 11 | Mar 03 | Review for Midterm | 
 -- | Mar 08 | Midterm Exam | 
-12 | Mar 10 |  | 
-13 | Mar 15 |  | 
-14 | Mar 17 |  | 
-15 | Mar 22 |  | 
-16 | Mar 24 |  | 
-17 | Mar 29 |  | 
-18 | Mar 31 |  | 
-19 | Apr 05 |  | 
-20 | Apr 07 |  | 
-21 | Apr 12 |  | 
-22 | Apr 14 |  | 
-23 | Apr 19 |  |
+12 | Mar 10 | Tidy Data, Pivoting | 
+13 | Mar 15 | Separate and Unite, Missing Values | 
+14 | Mar 17 | String Basics | 
+15 | Mar 22 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) | 
+16 | Mar 24 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | 
+17 | Mar 29 | More Regular Expression Tools, stringi package | 
+18 | Mar 31 | Functions | 
+19 | Apr 05 | Vectors | 
+20 | Apr 07 | Iteration | 
+21 | Apr 12 | A Simple Model | 
+22 | Apr 14 | Course Review | 
+23 | Apr 19 | Course Review |
