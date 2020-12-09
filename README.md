@@ -9,7 +9,7 @@ This is an introductory statistical computing course based on the R programming 
 
 **Name**: Ambuj Tewari  
 **Zoom Office Hours**: TBD (see canvas for Zoom link)  
-**Email**: [mailto:tewaria@umich.edu]
+**Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
 
