@@ -60,18 +60,18 @@ If you think you need accommodation for a disability, please let me know at your
 Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
 00 | Jan 20 | Introduction | Chapter 1
-01 | Jan 25 |  | 
-02 | Jan 27 |  | 
-03 | Feb 01 |  | 
-04 | Feb 03 |  | 
-05 | Feb 08 |  | 
-06 | Feb 10 |  | 
-07 | Feb 15 |  | 
-08 | Feb 17 |  | 
-09 | Feb 22 |  | 
+01 | Jan 25 | Data Visualization (Aesthetic Mappings, Scatter Plots) | 
+02 | Jan 27 | Data Visualization (Facets, Geometric Objects) | 
+03 | Feb 01 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | 
+04 | Feb 03 | Data Transformation (filter, arrange, select) | 
+05 | Feb 08 | Data Transformation (mutate) | 
+06 | Feb 10 | Data Transformation (summarize, pipes) | 
+07 | Feb 15 | EDA (Visualizing Distributions) | 
+08 | Feb 17 | EDA (Typical and Unusual Values, Missing Values) | 
+09 | Feb 22 | EDA (Covariation) | 
 -- | Feb 24 | Well-being break | 
-10 | Mar 01 |  | 
-11 | Mar 03 |  | 
+10 | Mar 01 | Tibbles and Data Import | 
+11 | Mar 03 | Review for Midterm | 
 -- | Mar 08 | Midterm Exam | 
 12 | Mar 10 |  | 
 13 | Mar 15 |  | 
