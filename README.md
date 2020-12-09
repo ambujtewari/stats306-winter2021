@@ -59,9 +59,9 @@ If you think you need accommodation for a disability, please let me know at your
 
 Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
-00 | Jan 20 | Introduction | Chapter 1
-01 | Jan 25 | Data Visualization (Aesthetic Mappings, Scatter Plots) | 
-02 | Jan 27 | Data Visualization (Facets, Geometric Objects) | 
+00 | Jan 20 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
+01 | Jan 25 | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1 to 3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
+02 | Jan 27 | Data Visualization (Facets, Geometric Objects) | [Section 3.5 and 3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
 03 | Feb 01 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | 
 04 | Feb 03 | Data Transformation (filter, arrange, select) | 
 05 | Feb 08 | Data Transformation (mutate) | 
