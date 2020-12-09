@@ -60,3 +60,7 @@ If you think you need accommodation for a disability, please let me know at your
 Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
 00 | Jan 20 | Introduction | Chapter 1
+01 | Jan 25 |  | 
+02 | Jan 27 |  | 
+03 | Feb 01 |  | 
+03 | Feb 03 |  | 
