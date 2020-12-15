@@ -14,10 +14,10 @@ This is an introductory statistical computing course based on the R programming 
 
 ## GSI Information
 
-**Name**: Anthony DiGiovanni  
+**Name**: Ryan Duncan 
 **Lab Webpage**: TBD  
 **Office Hours**: TBD  
-**Email**: [adigi@umich.edu](mailto:adigi@umich.edu)
+**Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
 
 **Name**: Jing Ouyang  
 **Lab Webpage**: TBD  
