@@ -14,7 +14,7 @@ This is an introductory statistical computing course based on the R programming 
 
 ## GSI Information
 
-**Name**: Ryan Duncan 
+**Name**: Ryan Duncan  
 **Lab Webpage**: TBD  
 **Office Hours**: TBD  
 **Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
