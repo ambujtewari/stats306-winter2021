@@ -4,6 +4,7 @@ This is an introductory statistical computing course based on the R programming 
 
 - **Textbook**: We will use _R for Data Science_ by Grolemund and Wickham. It is available both as a printed book and as an [online resource](https://r4ds.had.co.nz/).
 - **Canvas**: You should access the Canvas class page for this course frequently. It will let you access important announcements, homework assignments, and exams.
+- **Binder**: All lecture notebooks can be accessed by clicking this button [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ambujtewari/stats306-winter2021/main)
 
 ## Instructor Information
 
@@ -49,11 +50,16 @@ Final grade in this course grading will be awarded using the grading scheme belo
 - 0-59.9: D+ or below
 
 ## Academic Integrity
-All students are expected to abide by the LSA Community Standards of Academic Integrity. Any instances of academic dishonesty will be reported to the Dean’s office.
+
+The University of Michigan community functions best when its members treat one another with honesty, fairness, respect, and trust. The college promotes the assumption of personal responsibility and integrity, and prohibits all forms of academic dishonesty and misconduct. All cases of academic misconduct will be referred to the LSA Office of the Assistant Dean for Undergraduate Education. Being found responsible for academic misconduct will usually result in a grade sanction, in addition to any sanction from the college. For more information, including examples of behaviors that are considered academic misconduct and potential sanctions, please see https://lsa.umich.edu/lsa/academics/academic-integrity.html
 
 ## Accommodation for Students with Disabilities
 
 If you think you need accommodation for a disability, please let me know at your earliest convenience. Some aspects of this course, the assignments, the in-class activities, and the way the course is usually taught may be modified to facilitate your participation and progress. As soon as you make me aware of your needs, we can work with the Office of Services for Students with Disabilities (SSD) to help us determine appropriate academic accommodations. SSD (734-763-3000; http://ssd.umich.edu/) typically recommends accommodations through a Verified Individualized Services and Accommodations (VISA) form. Any information you provide is private and confidential and will be treated as such.
+
+## Mental Health and Well-Being
+
+Students may experience stressors that can impact both their academic experience and their personal well-being. These may include academic pressures and challenges associated with relationships, mental health, alcohol or other drugs, identities, finances, etc. If you are experiencing concerns, seeking help is a courageous thing to do for yourself and those who care about you. If the source of your stressors is academic, please contact me so that we can find solutions together. For personal concerns, U-M offers a variety of resources, many which are listed on the [Resources for Student Well-being](https://wellbeing.studentlife.umich.edu/resources-list) webpage. You can also search for additional well-being resources [here](https://wellbeing.studentlife.umich.edu/well-being-resources). 
 
 ## Schedule
 
