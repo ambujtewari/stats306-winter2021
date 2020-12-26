@@ -66,15 +66,15 @@ Students may experience stressors that can impact both their academic experience
 Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
 00 | Jan 20 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
-01 | Jan 25 | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1 to 3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
-02 | Jan 27 | Data Visualization (Facets, Geometric Objects) | [Section 3.5 and 3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
-03 | Feb 01 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | 
-04 | Feb 03 | Data Transformation (filter, arrange, select) | 
-05 | Feb 08 | Data Transformation (mutate) | 
-06 | Feb 10 | Data Transformation (summarize, pipes) | 
-07 | Feb 15 | EDA (Visualizing Distributions) | 
-08 | Feb 17 | EDA (Typical and Unusual Values, Missing Values) | 
-09 | Feb 22 | EDA (Covariation) | 
+01 | Jan 25 | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
+02 | Jan 27 | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
+03 | Feb 01 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
+04 | Feb 03 | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
+05 | Feb 08 | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
+06 | Feb 10 | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
+07 | Feb 15 | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
+08 | Feb 17 | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
+09 | Feb 22 | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
 -- | Feb 24 | Well-being break | 
 10 | Mar 01 | Tibbles and Data Import | 
 11 | Mar 03 | Review for Midterm | 
