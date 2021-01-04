@@ -15,7 +15,7 @@ This is an introductory statistical computing course based on the R programming 
 
 ## GSI Information
 
-**Name**: Ryan Duncan 
+**Name**: Ryan Duncan  
 **Assigned Lab Day**: Tuesday  
 **Lab Webpage**: TBD  
 **Office Hours**: TBD  
@@ -27,7 +27,7 @@ This is an introductory statistical computing course based on the R programming 
 **Office Hours**: TBD  
 **Email**: [jingoy@umich.edu](mailto:jingoy@umich.edu)
 
-**Name**: Ariel Polani 
+**Name**: Ariel Polani  
 **Assigned Lab Day**: Monday  
 **Lab Webpage**: TBD  
 **Office Hours**: TBD  
