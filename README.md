@@ -21,8 +21,8 @@ This is an introductory statistical computing course based on the R programming 
 **Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
 
 **Name**: Jing Ouyang
-**Assigned Lab Day**: Wednesday
-**Lab Webpage**: (https://jingoystat.github.io/)  
+**Assigned Lab Day**: Wednesday  
+**Lab Webpage**: https://jingoystat.github.io/  
 **Office Hours**: TBD  
 **Email**: [jingoy@umich.edu](mailto:jingoy@umich.edu)
 
