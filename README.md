@@ -17,13 +17,13 @@ This is an introductory statistical computing course based on the R programming 
 
 **Name**: Ryan Duncan  
 **Assigned Lab Day**: Tuesday  
-**Lab Webpage**: TBD  
+**Lab Webpage**: [https://ryandun.github.io/stats306lab3/](https://ryandun.github.io/stats306lab3/)
 **Office Hours**: TBD  
 **Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
 
 **Name**: Jing Ouyang  
 **Assigned Lab Day**: Wednesday  
-**Lab Webpage**: https://jingoystat.github.io/  
+**Lab Webpage**: [https://jingoystat.github.io/](https://jingoystat.github.io/)  
 **Office Hours**: TBD  
 **Email**: [jingoy@umich.edu](mailto:jingoy@umich.edu)
 
