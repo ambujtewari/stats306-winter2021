@@ -17,7 +17,7 @@ This is an introductory statistical computing course based on the R programming 
 
 **Name**: Ryan Duncan  
 **Assigned Lab Day**: Tuesday  
-**Lab Webpage**: [https://ryandun.github.io/stats306lab3/](https://ryandun.github.io/stats306lab3/)
+**Lab Webpage**: [https://ryandun.github.io/stats306lab3/](https://ryandun.github.io/stats306lab3/)  
 **Office Hours**: TBD  
 **Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
 
