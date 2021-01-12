@@ -29,7 +29,7 @@ This is an introductory statistical computing course based on the R programming 
 
 **Name**: Ariel Polani  
 **Assigned Lab Day**: Monday  
-**Lab Webpage**: TBD  
+**Lab Webpage**: [https://ariel-polani.github.io/STATS306_W21/](https://ariel-polani.github.io/STATS306_W21/)  
 **Office Hours**: TBD  
 **Email**: [apolani@umich.edu](mailto:apolani@umich.edu)
 
