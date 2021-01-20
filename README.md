@@ -10,7 +10,7 @@ This is an introductory statistical computing course based on the R programming 
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
-**Office Hours**: Via Zoom, Mon thru Thu, 8:30 pm - 9:00 pm ET (see canvas for Zoom link). Will also be answering questions on slack at various points during the week.
+**Office Hours**: Via Zoom, Mon thru Thu, 8:30 pm - 9:00 pm ET (see canvas for Zoom link). Will also be answering questions on slack at various points during the week.  
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
