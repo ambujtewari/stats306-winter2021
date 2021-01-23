@@ -15,18 +15,19 @@ This is an introductory statistical computing course based on the R programming 
 
 ## GSI Information
 
-**Name**: Ryan Duncan  
-**Assigned Lab Day**: Tuesday  
+**Name**: Ryan Duncan    
 **Lab Webpage**: [https://ryandun.github.io/stats306lab3/](https://ryandun.github.io/stats306lab3/) (also has office hours info)    
 **Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
 
-**Name**: Jing Ouyang  
-**Assigned Lab Day**: Wednesday  
+**Name**: Holly Palmer   
+**Lab Webpage**: [ https://sites.google.com/umich.edu/stat306-005/]( https://sites.google.com/umich.edu/stat306-005/) (also has office hours info)    
+**Email**: [palmerh@umich.edu](mailto:palmerh@umich.edu)
+
+**Name**: Jing Ouyang   
 **Lab Webpage**: [https://jingoystat.github.io/](https://jingoystat.github.io/) (also has office hours info)  
 **Email**: [jingoy@umich.edu](mailto:jingoy@umich.edu)
 
-**Name**: Ariel Polani  
-**Assigned Lab Day**: Monday  
+**Name**: Ariel Polani   
 **Lab Webpage**: [https://ariel-polani.github.io/STATS306_W21/](https://ariel-polani.github.io/STATS306_W21/) (also has office hours info)  
 **Email**: [apolani@umich.edu](mailto:apolani@umich.edu)
 
