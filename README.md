@@ -10,24 +10,25 @@ This is an introductory statistical computing course based on the R programming 
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
-**Zoom Office Hours**: TBD (see canvas for Zoom link)  
+**Office Hours**: Via Zoom, Mon thru Thu, 8:30 pm - 9:00 pm ET (see canvas for Zoom link). Will also be answering questions on slack at various times during the week.  
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
 
-**Name**: Ryan Duncan  
-**Lab Webpage**: TBD  
-**Office Hours**: TBD  
+**Name**: Ryan Duncan    
+**Lab Webpage**: [https://ryandun.github.io/stats306lab3/](https://ryandun.github.io/stats306lab3/) (also has office hours info)    
 **Email**: [ryandun@umich.edu](mailto:ryandun@umich.edu)
 
-**Name**: Jing Ouyang  
-**Lab Webpage**: TBD  
-**Office Hours**: TBD  
+**Name**: Holly Palmer   
+**Lab Webpage**: [ https://sites.google.com/umich.edu/stat306-005/]( https://sites.google.com/umich.edu/stat306-005/) (also has office hours info)    
+**Email**: [palmerh@umich.edu](mailto:palmerh@umich.edu)
+
+**Name**: Jing Ouyang   
+**Lab Webpage**: [https://jingoystat.github.io/](https://jingoystat.github.io/) (also has office hours info)  
 **Email**: [jingoy@umich.edu](mailto:jingoy@umich.edu)
 
-**Name**: Ariel Polani  
-**Lab Webpage**: TBD  
-**Office Hours**: TBD  
+**Name**: Ariel Polani   
+**Lab Webpage**: [https://ariel-polani.github.io/STATS306_W21/](https://ariel-polani.github.io/STATS306_W21/) (also has office hours info)  
 **Email**: [apolani@umich.edu](mailto:apolani@umich.edu)
 
 ## Grading
