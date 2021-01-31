@@ -7,3 +7,4 @@ dependencies:
   - r-hexbin
   - r-htmlwidgets
   - r-nycflights13
+  - r-maps
