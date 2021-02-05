@@ -7,6 +7,7 @@ This is an introductory statistical computing course based on the R programming 
 - **Binder**: All lecture notebooks can be accessed by clicking the button below  
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ambujtewari/stats306-winter2021/main)
 
+
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
