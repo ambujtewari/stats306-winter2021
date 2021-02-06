@@ -35,9 +35,11 @@ This is an introductory statistical computing course based on the R programming 
 
 The final grade in the course will be determined by your scores in homework, a midterm exam, and a final exam using the weights given below.
 
-- Homeworks (30%)
+- Homeworks (30%) _Note:_ your lowest homework score will be dropped when calculating the final course grade
 - Midterm Exam (30%)
 - Final Exam (40%)
+
+Late submissions will _not_ be accepted unless there is a documented health or family emergency.
 
 Final grade in this course grading will be awarded using the grading scheme below.
 - 99-100: A+
