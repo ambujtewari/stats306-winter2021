@@ -78,10 +78,10 @@ Lecture No. | Date | Topic | Reading Assignment
 06 | Feb 10 | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
 07 | Feb 15 | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
 08 | Feb 17 | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
--- | Feb 22 | Well-being break | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
+-- | Feb 22 | Well-being break | 
 -- | Feb 24 | Well-being break | 
-09 | Mar 01 | EDA (Covariation) | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
-10 | Mar 03 | Tibbles and Data Import | 
+09 | Mar 01 | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
+10 | Mar 03 | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
 -- | Mar 08 | Midterm Exam | 
 12 | Mar 10 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 | Mar 15 | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
