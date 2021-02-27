@@ -1,6 +1,6 @@
 # Please read these instructions carefully
 
-- Exam should be turned in via canvas file uploads by March 11 (canvas will accept submissions until 3 am on March 12).
+- Exam should be turned in via canvas file uploads by March 11 (canvas will accept submissions until 3 am EST on March 12).
 - Late submissions will **NOT** be accepted (unless there is a documented emergency or other major disruption beyond your control).
 - You are allowed to use specific websites listed below, your own course notes, and a running R interpreter.
 - _If you use any website(s) not specifically listed as allowed, you MUST list it in your exam._
