@@ -96,4 +96,4 @@ Lecture No. | Date | Topic | Reading Assignment
 21 | Apr 12 | A Simple Model | 
 22 | Apr 14 | Course Review | 
 23 | Apr 19 | Course Review |
--- | Apr 22 | Final Exam (due to on Apr 28) | 
+-- | Apr 22 | Final Exam (due on Apr 28) | 
