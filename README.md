@@ -83,7 +83,7 @@ Lecture No. | Date | Topic | Reading Assignment
 09 | Mar 01 | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
 10 | Mar 03 | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
 11 | -- | CANCELLED |
--- | Mar 08 | Midterm Exam | 
+-- | Mar 08 | Midterm Exam (due on Mar 11) | 
 12 | Mar 10 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 | Mar 15 | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
 14 | Mar 17 | String Basics | 
@@ -96,3 +96,4 @@ Lecture No. | Date | Topic | Reading Assignment
 21 | Apr 12 | A Simple Model | 
 22 | Apr 14 | Course Review | 
 23 | Apr 19 | Course Review |
+-- | Apr 22 | Final Exam (due to on Apr 28) | 
