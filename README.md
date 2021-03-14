@@ -86,7 +86,7 @@ Lecture No. | Date | Topic | Reading Assignment
 -- | Mar 08 | Midterm Exam (due on Mar 11) | 
 12 | Mar 10 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 | Mar 15 | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
-14 | Mar 17 | String Basics | 
+14 | Mar 17 | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
 15 | Mar 22 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) | 
 16 | Mar 24 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | 
 17 | Mar 29 | More Regular Expression Tools, stringi package | 
