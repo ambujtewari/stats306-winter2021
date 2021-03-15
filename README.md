@@ -94,6 +94,6 @@ Lecture No. | Date | Topic | Reading Assignment
 19 | Apr 05 | Vectors | 
 20 | Apr 07 | Iteration | 
 21 | Apr 12 | A Simple Model | 
-22 | Apr 14 | Well-being break | 
-23 | Apr 19 | Well-being break |
+-- | Apr 14 | Well-being break | 
+-- | Apr 19 | Well-being break |
 -- | Apr 21 | Final Exam (due on Apr 28) | 
