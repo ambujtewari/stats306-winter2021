@@ -88,12 +88,12 @@ Lecture No. | Date | Topic | Reading Assignment
 13 | Mar 15 | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
 14 | Mar 17 | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
 15 | Mar 22 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) | [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
-16 | Mar 24 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.3](https://r4ds.had.co.nz/strings.html#detect-matches)
-17 | Mar 29 | More Regular Expression Tools, stringi package | 
-18 | Mar 31 | Functions | 
-19 | Apr 05 | Vectors | 
-20 | Apr 07 | Iteration | 
-21 | Apr 12 | A Simple Model | 
+16 | Mar 24 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
+17 | Mar 29 | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
+18 | Mar 31 | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
+19 | Apr 05 | Vectors | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
+20 | Apr 07 | Iteration | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
+21 | Apr 12 | A Simple Model | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
 -- | Apr 14 | Well-being break | 
 -- | Apr 19 | Well-being break |
 -- | Apr 21 | Final Exam (due on Apr 28) | 
