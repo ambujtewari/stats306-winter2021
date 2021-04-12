@@ -7,11 +7,11 @@
 - Failure to fully disclose resources that you used for the exam can result in loss of points.
 - You are **NOT** allowed to copy answers from anyone/anywhere including any online sources! All work must be your own.
 - No googling for answers! We reserve the right to run plagiarism detection software and report violations of academic integrity to the Dean's office.
-- There are a total of 8 problems. Make sure you look at the entire exam.
+- There are a total of 8 problems. Each problem is worth 5 points. Make sure you look at the entire exam.
 - Make sure you only edit cells explicitly marked as solution cells.
 - Like homeworks, upload the **pdf** version of your completed exam before the due date
 - However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension)
-- Make sure these packages are loaded: `tidyverse`
+- Make sure these packages are loaded: `tidyverse` and `lubridate`
 - To ask questions use the `#final` channel in slack. If you ask privately we will post the questions and answer publicly (after removing your name)
 
 # List of allowed resources
