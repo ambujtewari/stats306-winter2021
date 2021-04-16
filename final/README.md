@@ -8,6 +8,7 @@
 - You are **NOT** allowed to copy answers from anyone/anywhere including any online sources! All work must be your own.
 - No googling for answers! We reserve the right to run plagiarism detection software and report violations of academic integrity to the Dean's office.
 - There are a total of 8 problems. Each problem is worth 5 points. Make sure you look at the entire exam.
+- Each problem begins with a brief description of the tibble used in the problem followed by a brief description of all columns. Please read these carefully.
 - Make sure you only edit cells explicitly marked as solution cells.
 - Like homeworks, upload the **pdf** version of your completed exam before the due date
 - However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension)
