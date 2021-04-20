@@ -9,7 +9,7 @@
 - No googling for answers! We reserve the right to run plagiarism detection software and report violations of academic integrity to the Dean's office.
 - There are a total of 8 problems. Each problem is worth 5 points. Make sure you look at the entire exam.
 - Each problem begins with a brief description of the tibble used in the problem followed by a brief description of all columns. Please read these carefully.
-- Make sure you only edit cells explicitly marked as solution cells.
+- Make sure you only edit cells explicitly marked as solution cells. In particular, do **NOT** edit cells that say "DO NOT EDIT THIS CELL".
 - Like homeworks, upload the **pdf** version of your completed exam before the due date
 - However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension)
 - Make sure these packages are loaded: `tidyverse` and `lubridate`
