@@ -1,6 +1,6 @@
 # Please read these instructions carefully
 
-- Exam should be turned in via canvas file uploads by April 28 (canvas will accept submissions until 3 am EST on April 29).
+- Exam should be turned in via canvas file uploads by April 28 (canvas will accept submissions until 3 am EDT on April 29).
 - Late submissions will **NOT** be accepted (unless there is a documented emergency or other major disruption beyond your control).
 - You are allowed to use specific websites listed below, your own course notes, and a running R interpreter.
 - _If you use any website(s) not specifically listed as allowed, you MUST list it in your exam._
@@ -13,7 +13,7 @@
 - Like homeworks, upload the **pdf** version of your completed exam before the due date
 - However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension)
 - Make sure these packages are loaded: `tidyverse` and `lubridate`
-- To ask questions use the `#final` channel in slack. If you ask privately we will post the questions and answer publicly (after removing your name)
+- To ask questions use the appropriate problem channel in slack (e.g., `#problem1` channel for problem 1). If you ask privately we will post the questions and answer publicly (after removing your name).
 
 # List of allowed resources
 
