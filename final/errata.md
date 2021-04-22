@@ -6,4 +6,4 @@
 
 ## Part 4
 
-"Create a tibble named height_prob" should be replaced with "Create a tibble named `heights_prob`" (i.e., there should be an "s" after "height" in the name of the tibble)
+"Create a tibble named `height_prob`" should be replaced with "Create a tibble named `heights_prob`" (i.e., there should be an "s" after "height" in the name of the tibble)
